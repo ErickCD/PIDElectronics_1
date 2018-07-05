@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PID-Electronics_Botones</string>
+    <string name="btn1_s">Botón Uno</string>
+    <string name="btn2_s">Botón Dos</string>
+
+    <string name="tv_nombre">Escribe tu nombre</string>
+    <string name="placehoolder">Nombre</string>
+    <string name="btn_nombre">Muestra el nombre</string>
+</resources>
